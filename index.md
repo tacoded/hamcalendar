@@ -6,6 +6,7 @@
   - [October](2023-10_Ham_radio_calendar_October.pdf)
   - [November](2023-11_Ham_radio_calendar_November.pdf)
   - [December](2023-12_Ham_radio_calendar_December.pdf)
+
 ## 2024
   - [January](2024-01_Ham_radio_calendar_January.pdf)
   - [February](2024-02_Ham_radio_calendar_February.pdf)
