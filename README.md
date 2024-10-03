@@ -21,3 +21,4 @@ contests of interest to ham radio operators in the Greater Cincinnati area to me
   - [July](2024-07_Ham_radio_calendar_July.pdf)
   - [August](2024-08_Ham_radio_calendar_August.pdf)
   - [September](2024-09_Ham_radio_calendar_September.pdf)
+  - [October](2024-10_Ham_radio_calendar_October.pdf)
